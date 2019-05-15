@@ -1,1 +1,1 @@
-简单的todolist项目：react + antd,父子组件的值使用props进行传递
+简单的todolist项目：react + antd + mobx,通过mobx进行状态管理
